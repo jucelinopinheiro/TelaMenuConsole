@@ -1,0 +1,7 @@
+L:\AddCSharp\TelaMenu\TelaMenu\bin\Debug\TelaMenu.exe.config
+L:\AddCSharp\TelaMenu\TelaMenu\bin\Debug\TelaMenu.exe
+L:\AddCSharp\TelaMenu\TelaMenu\bin\Debug\TelaMenu.pdb
+L:\AddCSharp\TelaMenu\TelaMenu\obj\Debug\TelaMenu.csprojAssemblyReference.cache
+L:\AddCSharp\TelaMenu\TelaMenu\obj\Debug\TelaMenu.csproj.CoreCompileInputs.cache
+L:\AddCSharp\TelaMenu\TelaMenu\obj\Debug\TelaMenu.exe
+L:\AddCSharp\TelaMenu\TelaMenu\obj\Debug\TelaMenu.pdb
